@@ -6,7 +6,7 @@ My solutions to the homeworks, practices, and projects of Udemy's course Complet
 
 ### Homework
 
-ErrorsAndExceptions.py 
+errorsAndExceptions.py 
 
 functions.py
 
